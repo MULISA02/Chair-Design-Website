@@ -1,3 +1,4 @@
-# Chair-design
-This is a simple one-page website all about some really comfy, good-looking chairs.
-It's built from scratch using only HTML and CSS.It has no frameworks, no JavaScript, nothing extra. Just clean HTML for the structure and CSS for the layout, colors, and cozy feel.
+# Chair-Design
+Lisbon Chair Shop is a static website landing page designed to showcase a modern furniture brand.
+The project focuses on clean layout design, readable code structure, and maintainable styling using only HTML and CSS.
+This project was built as a learning exercise to practice real-world layout techniques and modern CSS 
