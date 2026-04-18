@@ -7,7 +7,7 @@ A modern, responsive landing page for a boutique furniture store. This project w
 * **Design System:** Implemented a consistent visual language including custom typography and a curated color scheme.
 Interactive UI: Includes hover effects and a structured product gallery.
 Tech Stack
-  * **HTML5:** Structure and content.
+* **HTML5:** Structure and content.
 * **CSS3:** Custom styling, layouts, and animations.
 
 ## What I Learned
