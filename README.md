@@ -17,5 +17,5 @@ Managing layout alignment and spacing through professional CSS techniques.
 
 ## Installation
 Simply clone the repo and open index.html in your browser:
-git clone https://github.com/Mulisa 02/Chair-Design-Website.git
+git clone https://github.com/Mulisa02/Chair-Design-Website.git
 
